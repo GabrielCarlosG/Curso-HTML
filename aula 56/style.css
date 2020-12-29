@@ -27,3 +27,15 @@ a:hover{
     background-color: #f99200;
     color: #ffffff;
 }
+
+/* Seleciona Pagina atual */
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#contato #navegacao .contato a,
+#noticia #navegacao .noticia a,
+#servico #navegacao .servico a{
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #ffffff;
+}
