@@ -16,9 +16,10 @@ Aula 57, Criando barra de navegação Horizontal.
 
 [Barra de Navegação Em Abas](https://github.com/GabrielCarlosG/Curso-HTML/tree/main/Aula%2058)<br>
 Aula 58, Criando barra de navegação em abas.
+<hr>
 
-
-
+[layouts](https://github.com/GabrielCarlosG/Curso-HTML/tree/main/Aula%20de%20Layouts)<br>
+Aula 59, Criando um layout Fixo, com HTML e CSS.
 
 
 
