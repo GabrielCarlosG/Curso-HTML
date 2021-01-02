@@ -19,7 +19,8 @@ Aula 58, Criando barra de navegação em abas.
 <hr>
 
 [layouts](https://github.com/GabrielCarlosG/Curso-HTML/tree/main/Aula%20de%20Layouts)<br>
-Aula 59, Criando um layout Fixo, com HTML e CSS.
+
+[Aula 59](https://github.com/GabrielCarlosG/Curso-HTML/tree/main/Aula%20de%20Layouts/Aula%2059), Criando um layout Fixo, com HTML e CSS.
 
 
 
