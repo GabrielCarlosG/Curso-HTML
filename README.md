@@ -12,6 +12,10 @@ Aula 56, Implementei a seleção da página atual.
 
 [Barra de Navegação Horizontal](https://github.com/GabrielCarlosG/Curso-HTML/tree/main/aula%2057)<br>
 Aula 57, Criando barra de navegação Horizontal.
+<hr>
+
+[Barra de Navegação Em Abas](https://github.com/GabrielCarlosG/Curso-HTML/tree/main/aula%2058)<br>
+Aula 58, Criando barra de navegação em abas.
 
 
 
