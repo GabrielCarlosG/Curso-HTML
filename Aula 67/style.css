@@ -1,51 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
-    margin: 0;
+    background: #fff url(imagens/fundo.png) repeat-x top left;
 }
 
-ul{
-    margin: 0px;
-    padding: 1em;
-    list-style-type: none;
-}
-
-ul li{
-    float: left;
-}
-
-ul a{
-    border: 1px solid red;
-    display: block;
-    padding: 0 2em;
-    line-height: 2em;
-    text-decoration: none;
-    color: #fff;
-}
-
-#header{
-    height: 233px;
-    display: block;
-    background: #28305c url(imagens/fundo.png) repeat-x;
-}
-
-#navegacao{
-    width: 70%;
+#container{
+    width: 750px;
     margin: 0 auto;
-    padding: 2px; 
-    border: 1px solid red;
-    clear: both;
 }
 
-#logo{
+#topo{
+    height: 150px;
+    background: url(imagens/detalhe-topo.png) no-repeat right top;
+    padding-top: 25px;
     border: 1px solid red;
+}
+
+.logo{
     width: 152px;
     height: 66px;
-    margin-top: 10px;
-    clear: both;
-    background: url(imagens/logo.png) no-repeat left top;
-}
-
-#mapa-brasil{
-    clear: both;
-    background: url(imagens/detalhe-topo.png) no-repeat right bottom;
+    background: url(imagens/logo.png) no-repeat center;
+    text-indent: -3000px;
 }
