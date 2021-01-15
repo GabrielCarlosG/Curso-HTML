@@ -17,7 +17,6 @@ body{
     height: 150px;
     background: url(imagens/detalhe-topo.png) no-repeat right top;
     padding-top: 25px;
-    border: 1px solid red;
 }
 
 .logo{
@@ -25,4 +24,40 @@ body{
     height: 66px;
     background: url(imagens/logo.png) no-repeat center;
     text-indent: -3000px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#topo ul{
+    margin-top: 30px;
+    background: #b10333;
+    float: left;
+}
+
+#topo ul li {
+    float: left;
+    background: url(imagens/divisor.png) repeat-y top left;
+}
+
+#topo ul li a{
+    color: #fff;
+    font-size: 0.9em;
+    line-height: 2.1em;
+    padding: 0.5em 1.5em;
+    text-decoration: none;
+}
+
+#topo ul a:hover{
+    color: #69001d;
+}
+
+body.home #menu a#home,
+body.brasil #menu a#brasil{
+    color: #fff;
+    background-color: #de003e;
+    cursor: text;
 }
